@@ -10,7 +10,7 @@ QTForming (QuasiThermoforming) introduces a “one-size-fits-all” concept for 
 | Pre-work preparation | :green_circle: | *No preparations required before work*. |
 | CAD software | :green_circle: | *No CAD software required*. |
 | G-code post-processing | :green_circle: | *No G-code modifications required*. |
-| Post-processing | :green_circle: | *No post-processing is required*. |
+| Post-processing | :red_circle: | *Post-processing is required*. |
 | Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
 
 Project difficulty: ***EASY*** :suspect:
